@@ -13,6 +13,5 @@ public class GugudanArray {
            }
        }
 
-        System.out.println("git test");
     }
 }
