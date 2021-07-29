@@ -12,5 +12,7 @@ public class GugudanArray {
                System.out.println(k +" * "+(j+1) +" = " + result[j]);
            }
        }
+
+        System.out.println("git test");
     }
 }
